@@ -1,1 +1,1 @@
-# db-index
+# dbs-index
